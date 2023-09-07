@@ -1,5 +1,7 @@
+Hi! I'm Lita and this is my GitHub repo.
+
+I'm currently learning how to interface with different hardware & sensors for wearable tech and citizen science applications. Stay tuned.
 
 <!---
-litamartinez/litamartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+¡Eso es divertido!
 --->
