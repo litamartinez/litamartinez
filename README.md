@@ -1,7 +1,7 @@
-Hi! I'm Lita and this is my GitHub repo.
+Hi! I'm Lita, and this is my GitHub repo.
 
-I'm currently learning how to interface with different hardware & sensors for wearable tech and citizen science applications. Stay tuned.
+This is where I'll publish some of my data projects, along with other bits of code that I write along the way. Stay tuned.
 
 <!---
 ¡Eso es divertido!
---->
+---!>
